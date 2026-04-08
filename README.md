@@ -17,7 +17,7 @@ man pages, using the required “ft_” prefix.
 
 ------------------------------------------------------------------------
 
-# Compilation & Usage
+# Instructions
 
 The project is compiled using a Makefile with the following flags:
 

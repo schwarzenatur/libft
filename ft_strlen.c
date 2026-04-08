@@ -3,16 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strlen.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: hbasaran <basaran.gm@gmail.com>            +#+  +:+       +#+        */
+/*   By: hbasaran <hbasaran@student.42istanbul.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/04/01 20:13:14 by hbasaran          #+#    #+#             */
-/*   Updated: 2026/04/05 14:16:14 by hbasaran         ###   ########.fr       */
+/*   Updated: 2026/04/08 17:47:51 by hbasaran         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
-#include <stdio.h>
-#include <string.h>
 
 size_t	ft_strlen(const char *str)
 {

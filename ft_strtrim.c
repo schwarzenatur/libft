@@ -3,15 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strtrim.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: hbasaran <basaran.gm@gmail.com>            +#+  +:+       +#+        */
+/*   By: hbasaran <hbasaran@student.42istanbul.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/04/01 20:14:06 by hbasaran          #+#    #+#             */
-/*   Updated: 2026/04/05 14:16:51 by hbasaran         ###   ########.fr       */
+/*   Updated: 2026/04/08 17:48:11 by hbasaran         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
-#include <stdlib.h>
 
 static int	is_in_set(char ch, char const *set)
 {

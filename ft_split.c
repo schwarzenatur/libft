@@ -3,15 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   ft_split.c                                         :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: hbasaran <basaran.gm@gmail.com>            +#+  +:+       +#+        */
+/*   By: hbasaran <hbasaran@student.42istanbul.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/04/01 19:54:40 by hbasaran          #+#    #+#             */
-/*   Updated: 2026/04/05 14:15:30 by hbasaran         ###   ########.fr       */
+/*   Updated: 2026/04/08 17:47:21 by hbasaran         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
-#include <stdlib.h>
 
 static int	count_tokens(const char *str, char delim)
 {
